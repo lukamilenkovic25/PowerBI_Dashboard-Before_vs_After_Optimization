@@ -20,7 +20,7 @@ This project addresses these issues through a structured dashboard audit and red
 
 ---
 ## Power BI Dashboard
-# BEFORE Dashboard - Key Issues Identified
+### BEFORE Dashboard - Key Issues Identified
 The original dashboard intentionally reflects common real‑world problems:
   - KPI overload with no clear focus
   - Multiple charts communicating the same information
@@ -31,7 +31,7 @@ Although technically correct, the dashboard is inefficient and difficult to inte
 
 ---
 
-#  AFTER Dashboard - Improvements Implemented
+###  AFTER Dashboard - Improvements Implemented
 The redesigned dashboard focuses on clarity and usability:
 - Reduced KPI set (Total Revenue, Revenue per Order, Estimated Profit)
 - Clear primary visual (Revenue Trend Over Time)
